@@ -1,0 +1,58 @@
+/* form {
+    border: 2px solid black;
+    display: inline-block;
+    padding: 50px;
+    height: 200px;
+    background-color: rgb(208, 188, 205);
+}
+
+.form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+
+}
+
+input {
+    margin-bottom: 10%;
+    width: 90%;
+    padding: 5px;
+    border-radius: 10px;
+} 
+
+.input-wrapper {
+    width: 100%;
+}
+
+button {
+    width: 40%;
+    padding: 5px;
+    border-radius: 10px;
+background-color: blue;
+color: white;
+font-size: large;
+}
+
+.button-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%
+}
+
+td,
+th {
+    border: 2px solid black;
+    text-align: center;
+}
+th {
+    font-size: large;
+    color: white;
+    background-color: darksalmon;
+} */
