@@ -6,7 +6,6 @@ function ComponentA() {
     const handleClick = () => {
         navigate("/componentB", { state: { id: 1, color: "red" } })
     }
-
     return (
         <>
             <button onClick={handleClick} >ComponentB</button>

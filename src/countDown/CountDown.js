@@ -4,7 +4,7 @@ function CountDown() {
     const [count, setCount] = useState(0)
     const timer = () => {
         setTimeout(() => {
-            setCount((e)=>e+1)
+            setCount((e) => e + 1)
         }, 1000);
     }
 
@@ -12,8 +12,6 @@ function CountDown() {
         timer()
     }, [count])
 
-
-    
     return (
         <>
             <h1>{count}</h1>
