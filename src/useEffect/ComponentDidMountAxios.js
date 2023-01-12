@@ -11,6 +11,7 @@ function ComponentDidMountAxios() {
         axios.get(URL)
             .then((res) => {
                 console.log(res.data)
+                
                 setData(res.data)
             })
     }
